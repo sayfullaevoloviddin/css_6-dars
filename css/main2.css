@@ -1,0 +1,95 @@
+.wrap{
+    width: 1200px;
+    margin: 50px auto;
+}
+.main{
+    width: 100%;
+    display: block;
+}
+.main-menu{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+}
+.main-menu-2{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: 20px 20px 5px grey;
+}
+.main-menu-3{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: 40px 40px 5px grey;
+}
+.main-menu-4{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: 40px 40px 30px grey;
+}
+.main-menu-5{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: 40px 40px 5px lightgrey;
+}
+.main-menu-6{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: 40px 40px 5px darkgrey;
+}
+.main-menu-7{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: 0 40px 5px dimgrey;
+}
+.main-menu-8{
+    margin: 0 26px;
+    width: 20%;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: lightblue;
+    text-align: center;
+    padding: 4rem 0;
+    box-shadow: -10px -10px 5px grey;
+}

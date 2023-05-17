@@ -1,0 +1,13 @@
+.wrap {
+    width: 500px;
+    height: 160px;
+    text-align: center;
+    border: 1px solid white;
+    background: linear-gradient(90deg, blue, green, yellow, red);
+    line-height: 15px;
+    margin: 150px auto;
+}
+h1{
+    font-size: 60px;
+    color: grey;
+}

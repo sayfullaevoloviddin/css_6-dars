@@ -1,0 +1,21 @@
+.wrap{
+    width: 700px;
+    height: 150px;
+    border: 1px solid transparent;
+    background: linear-gradient(0deg,lawngreen,#137EA7,indianred);
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+}
+.wrap2{
+    width: 700px;
+    height: 150px;
+    border: 1px solid transparent;
+    background: linear-gradient(90deg,#FF9500,yellow,green,blue,blueviolet);
+    text-align: center;
+    color: white;
+    margin: 20px auto;
+}
+p{
+    margin-top: 55px;
+}

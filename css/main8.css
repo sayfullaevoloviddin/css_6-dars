@@ -1,0 +1,12 @@
+.wrap{
+    border: 2px solid white;
+    width: 900px;
+    height: 600px;
+    text-align: center;
+    background: radial-gradient(green,white,blue);
+    margin: 200px auto;
+}
+h1{
+    margin-top: 200px;
+    font-size: 50px;
+}

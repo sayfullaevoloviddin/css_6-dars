@@ -1,0 +1,43 @@
+body{
+    background-color: yellow;
+}
+.wrap{
+    width: 500px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 200px 200px;
+    box-shadow: 20px 20px 1px grey;
+    border-radius: 8px;
+}
+.main{
+    background-color: blanchedalmond;
+    width: 100%;
+    display: block;
+    border-radius: 8px;
+
+}
+.main-menu{
+    padding: 100px 0;
+    box-sizing: border-box;
+    width: 50%;
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.main-menu-2{
+    width: 48%;
+    background-color: blanchedalmond;
+    display: inline-block;
+    text-align: center;
+    padding: 100px 0;
+
+}
+.main-menu-3{
+    width: 48%;
+    background-color: blanchedalmond;
+    display: inline-block;
+    text-align: center;
+    padding: 100px 0;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.wrap{
+    width: 700px;
+    height: 300px;
+    margin: 300px auto;
+    border: 5px solid transparent;
+    box-shadow:  -15px -15px 20px -5px rgba(0,0,225,1),
+    15px -15px 20px -5px rgba(225,225,0,1),
+    15px 15px 20px -5px rgba(0,225,0,1),
+    -15px 15px 20px -5px rgba(150,0,225,1);
+}

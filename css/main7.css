@@ -1,0 +1,7 @@
+.wrap{
+    border: 1px solid transparent;
+    width: 900px;
+    height: 900px;
+    background: radial-gradient(red,yellow,green);
+    margin: 0 auto;
+}
